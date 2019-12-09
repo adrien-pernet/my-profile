@@ -1,0 +1,144 @@
+img {
+  width: 200px;
+  height: 200px;
+  border-radius: 15px
+}
+
+body {
+	background-color: white;
+	color: rgb(55, 60, 59);
+	font-family: 'Kalam', cursive;
+	font-size: 18px;
+}
+
+h1 {
+	font-family: 'Calistoga', cursive;
+	font-size: 40px;
+	color: #A80829;
+	letter-spacing: 2px
+}
+
+h2 {
+	font-family: 'Lobster', cursive;
+	color: rgb(173, 36, 156);
+	font-size: 30px;
+	letter-spacing: 2px
+}
+
+a {
+	text-decoration: none;
+	color: rgb(41, 107, 196);
+	font-size: 25px;
+	font-weight: bolder;
+}
+
+a:hover {
+	color: rgb(69, 191, 255);
+}
+
+
+
+.card-design-introduction {
+	border: 5px inset rgb(233, 129, 238);
+    background-color: rgb(241, 252, 250);
+    padding: 15px;
+  	flex-direction: column;
+  	border-radius: 15px;
+  	text-align: center;
+    margin-right: 10%;
+    margin-left: 10%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    box-shadow: 10px 10px 15px -4px rgba(176,92,176,1);
+}
+
+.card-design-studies {
+		border: 5px inset rgb(72, 201, 202);
+    background-color: rgb(241, 252, 250);
+    padding: 15px;
+  	flex-direction: column;
+  	border-radius: 15px;
+  	text-align: center;
+    margin-right: 10%;
+    margin-left: 10%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    box-shadow: 10px 10px 15px -4px rgba(48,148,148,1);
+  }
+
+.card-design-sports {
+		border: 5px inset rgb(72, 201, 202);
+    background-color: rgb(241, 252, 250);
+    padding: 15px;
+  	flex-direction: column;
+  	border-radius: 15px;
+  	text-align: center;
+    margin-right: 10%;
+    margin-left: 10%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    box-shadow: 10px 10px 15px -4px rgba(48,148,148,1);
+}
+
+.card-design-politics {
+		border: 5px inset rgb(72, 201, 202);
+    background-color: rgb(241, 252, 250);
+    padding: 15px;
+  	flex-direction: column;
+  	border-radius: 15px;
+  	text-align: center;
+    margin-right: 10%;
+    margin-left: 10%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    box-shadow: 10px 10px 15px -4px rgba(48,148,148,1);
+}
+
+.card-design-follow {
+		border: 5px inset rgb(246, 160, 125);
+    background-color: rgb(241, 252, 250);
+    padding: 15px;
+  	flex-direction: column;
+  	border-radius: 15px;
+  	text-align: center;
+    margin-right: 10%;
+    margin-left: 10%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    box-shadow: 10px 10px 15px -4px rgba(204,126,67,1);
+}
+
+.btn-blue {
+  background-color: rgb(127,197,196);
+  color: white;
+  padding: 5px 5px;
+  border-radius: 15px
+}
+
+.btn-blue:hover {
+  background-color: rgb(109, 175, 197);
+  color: white
+}
+
+.list-inline {
+  list-style: none;
+}
+
+.list-inline li {
+  display: inline;
+  padding: 10px
+}
+
+.list-inline i {
+  font-size: 50px;
+  color: rgb(203, 141, 241);
+}
+
+.list-inline i:hover {
+  color: rgb(173, 91, 224);
+}
+
+
+
+
+
